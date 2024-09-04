@@ -11,8 +11,8 @@ import {ZkSyncChainChecker} from "lib/foundry-devops/src/ZkSyncChainChecker.sol"
 import {FoundryZkSyncChecker} from "lib/foundry-devops/src/FoundryZkSyncChecker.sol";
 
 contract MoodNftTest is Test, ZkSyncChainChecker, FoundryZkSyncChecker {
-    string constant NFT_NAME = "Mood NFT";
-    string constant NFT_SYMBOL = "MN";
+    string constant NFT_NAME = "MoodNft";
+    string constant NFT_SYMBOL = "MOOD";
     MoodNft public moodNft;
     DeployMoodNft public deployer;
     address public deployerAddress;

@@ -1,0 +1,11 @@
+https://upload.wikimedia.org/wikipedia/en/3/3b/SpongeBob_SquarePants_character.svg
+
+{
+  "name": "Sponge",
+  "description": "The yellow guy SpongeBob",
+  "image": "https://upload.wikimedia.org/wikipedia/en/3/3b/SpongeBob_SquarePants_character.svg",
+  "banner_image": "https://external-link-url.com/banner-image.png",
+  "featured_image": "https://external-link-url.com/featured-image.png",
+  "external_link": "https://google.com",
+  "collaborators": ["0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266"]
+}
